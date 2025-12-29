@@ -1,0 +1,7 @@
+{
+  "name": "Faciliza 2.0",
+  "description": "Uma plataforma simplificada de gestão empresarial com controle de estoque, financeiro, equipe e assistente de IA por voz e texto.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
